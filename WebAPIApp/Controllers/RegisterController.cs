@@ -118,8 +118,8 @@ namespace WebAPIApp.Controllers
                     smtp.UseDefaultCredentials = false;
                     var credential = new NetworkCredential
                     {
-                        UserName = "umesh.6045@gmail.com",
-                        Password = "j@nAkr!shnaven1ume$h"
+                        UserName = "",
+                        Password = ""
                     };
 
                     // Settings.  
